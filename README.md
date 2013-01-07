@@ -1,4 +1,2 @@
 goldos
-======
-
-Another operating system project...
+=Repo init hasn´t completed yet. Will take 2 weeks or more.
